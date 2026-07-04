@@ -1,0 +1,5 @@
+I am teaching web development using Sigma web development course. Here are video chunks containing video title, video number,start time in second,end time in seconds, the text at that time:
+[{"title":"Introduction to CSS","number":"14","start":257.6,"end":259.6,"text":" So, what is CSS?"},{"title":"Your First HTML Website","number":"2","start":850.44,"end":851.44,"text":" I will teach you CSS"},{"title":"Introduction to CSS","number":"14","start":48.52,"end":50.16,"text":" how CSS is written."},{"title":"Heading, Paragraphs and Links","number":"4","start":1028.4,"end":1030.4,"text":" We will learn styling from CSS."},{"title":"Introduction to CSS","number":"14","start":90.88,"end":93.88,"text":" Why will you use CSS?"}]
+____________________________________________________________________________________________________________________________
+Where is CSS taught
+User asked this question related to video chunks, you have to answer where and how much content is taughted where (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course.

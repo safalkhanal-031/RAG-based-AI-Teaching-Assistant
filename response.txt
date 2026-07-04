@@ -1,0 +1,17 @@
+Okay, let’s find out where CSS is taught in the Sigma web development course.
+
+CSS is taught in multiple videos! Here’s a breakdown:
+
+*   **Video 2:** “Your First HTML Website” – At 850.44 seconds, the instructor says “I will teach you CSS”.
+*   **Video 14:** “Introduction to CSS” – This video covers CSS extensively. There are multiple segments within the video:
+    *   At 257.6 seconds, it asks “So, what is CSS?”
+    *   At 48.52 seconds, the instructor says “how CSS is written.”
+    *   At 90.88 seconds, the instructor asks “Why will you use CSS?”
+
+Additionally, the concept of styling is introduced in **Video 4:** “Heading, Paragraphs and Links” at 1028.4 seconds, where it’s explained that we’ll learn styling from CSS.
+
+**In short, CSS is taught in Videos 2, 14, and 4.**
+
+To learn more about CSS, I recommend starting with **Video 14: “Introduction to CSS”**, which begins at 257.6 seconds.
+
+Do you want me to guide you to a specific part of the CSS teaching within a particular video, or would you like me to answer a different question about the course?
